@@ -1,8 +1,8 @@
 title: Aderson JORDAN 
 description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+author: FUUGUII
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: DFYTY@GMAIL.COM
 
 plugins:
   - jekyll-seo-tag
@@ -24,20 +24,18 @@ paginate: 10
 # ======
 exclude:
   - scripts/
-  - README.md
+  - LEER
   - jekyll-theme-hamilton.gemspec
 
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
-  username: ngzhio
-  card: summary
-logo: logo.png
+  username: ANDJOE
+  card: sHIHO
+logo: IUGB
 social:
-  name: Shangzhi Huang
+  name: BKHBKBNNKNKK,
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - WWW.CEDCCSC.COM
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
