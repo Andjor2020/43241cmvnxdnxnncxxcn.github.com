@@ -1,8 +1,8 @@
-title: Aderson JORDAN 
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: FUUGUII
-avatar: /logo.png
-email: DFYTY@GMAIL.COM
+title: Blog personal
+description: vida personal relacionada con la carrera de software 
+author: Anderson Jordan
+avatar: https://avatars2.githubusercontent.com/u/69701126?s=460&u=37593b61392a7032fc66322e964776b9d198ee11&v=4
+email: andjor2019@GMAIL.COM
 
 plugins:
   - jekyll-seo-tag
@@ -29,13 +29,13 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: ANDJOE
-  card: sHIHO
-logo: IUGB
+twitter: andjor2019
+  username: 
+  card: 
+logo: 
 social:
-  name: BKHBKBNNKNKK,
+  name:
   links:
-    - WWW.CEDCCSC.COM
+    -
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
