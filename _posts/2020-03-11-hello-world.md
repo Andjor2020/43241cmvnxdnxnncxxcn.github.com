@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hello World
-author: Shangzhi Huang
-date: 2020-03-11 18:42:53 +0800
+title: Acerca de - resumen de su biografía
+author: Anderson Jordan 
+date: 2020-08-15 18:05:53 +0800
 tags: [test, hello]
 ---
 
-Hello World! This is a post for testing the looking of Hamilton.
+Hole en este blo se va ha presentar mi vida personal 
