@@ -27,15 +27,7 @@ exclude:
   - LEER
   - jekyll-theme-hamilton.gemspec
 
-# Jekyll SEO Tag (Optional)
-# =========================
-twitter: andjor2019
-  username: Anderson
-  card: 
-logo: 
-social:
-  name:
-  links:
+
     -
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
