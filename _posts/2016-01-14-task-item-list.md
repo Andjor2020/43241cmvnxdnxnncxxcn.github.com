@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Desventajas de mí carrera Ingieneria en Software 
+title: Desventajas de mí carrera Ingeniería en Software 
 date: 15-08-2020
 ---
 A continuación voy a presentar las desventajas de mi carrera. 
