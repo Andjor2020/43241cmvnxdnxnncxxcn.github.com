@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Educación - resumen de mis estudios 
-date: 15-08- 2020 +0800
+
 author:
  - Anderson Jordan 
 ---
