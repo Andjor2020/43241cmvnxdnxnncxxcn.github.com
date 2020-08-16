@@ -161,7 +161,7 @@ You can create a file `_data/social.yml` to configure links to your social media
   url: https://twitter.com/Anderson56168096
   icon: fab fa-twitter
 - title: GitHub
-  url: https://github.com/andjor2019
+  url: https://github.com/andjor2020
   icon: fab fa-github
 ```
 
