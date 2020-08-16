@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Docs
+title: Documentos
 permalink: /docs/
 ---
 
-A documentation page.
+Una página de documentación
