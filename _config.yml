@@ -1,8 +1,8 @@
 title: Blog personal
-description: vida personal relacionada con la carrera de software 
+description: Proyecto de Introducción a la ingienería de software 
 author: Anderson Jordan
 avatar: https://avatars2.githubusercontent.com/u/69701126?s=460&u=37593b61392a7032fc66322e964776b9d198ee11&v=4
-email: andjor2019@GMAIL.COM
+email: andjor2019@gmail.com
 
 plugins:
   - jekyll-seo-tag
