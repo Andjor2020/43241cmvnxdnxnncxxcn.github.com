@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Acerca de - resumen de su biografía
+title: Resumen de mí biografía
 author: Anderson Jordan 
 date: 2020-08-15 18:05:53 +0800
 tags: [test, hello]
