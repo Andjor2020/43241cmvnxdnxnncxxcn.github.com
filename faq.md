@@ -4,4 +4,4 @@ title: FAQ
 permalink: /faq/
 ---
 
-An FAQ page.
+Una página de preguntas frecuentes.
