@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Visiòn hacia mí futuro
+title: Visión hacia mí futuro
 date: 15-08-2020
 ---
 
-A continuación voy a presentar mi perspectiva de como veo mi futuro con la carrera de software. 
+A continuación voy a presentar mí perspectiva de como veo mí futuro con la carrera de ingeniería de software. 
 
 
 
