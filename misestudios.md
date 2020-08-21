@@ -1,6 +1,6 @@
 ---
 layout: page
-title: mis estudios 
+title: misestudios 
 permalink: /misestudios/
 ---
 A continuación voy a presentar un breve resumen de mis estudios desde la primaria hasta mi educación superior
