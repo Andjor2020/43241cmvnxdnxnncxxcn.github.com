@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
-type: page
+type: tags
 title: Etiquetas 
 permalink: /tags/
 ---
