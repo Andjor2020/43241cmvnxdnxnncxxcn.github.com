@@ -1,9 +1,8 @@
 ---
-layout: post
-title: Resumen de mí biografía
-author: Anderson Jordan 
+layout: page
+title: Acerca de
 date: 2020-08-15 18:05:53 +0800
-tags: [test, hello]
+permalink: /about/
 ---
 A continuación voy a presentar un breve resumen de mí biografiá desde mi nacimiento hasta el lugar actual donde vivo.
 
