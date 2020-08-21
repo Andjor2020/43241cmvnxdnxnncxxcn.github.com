@@ -1,5 +1,5 @@
 ---
-layout: mis estudios 
+layout: archive-years
 title: Año
 permalink: /years/
 ---
