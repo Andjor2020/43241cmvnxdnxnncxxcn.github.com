@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Educación - resumen de mis estudios 
-date: 15-08-2020
-author:
- - Anderson Jordan 
+title: mis estudios 
+permalink: /about/
 ---
 A continuación voy a presentar un breve resumen de mis estudios desde la primaria hasta mi educación superior
 
