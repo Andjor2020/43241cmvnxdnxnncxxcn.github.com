@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inteligencia artificial y el software
-date: 15-08-2020
+date: 16-08-2020
 ---
 
  
