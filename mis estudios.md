@@ -1,6 +1,7 @@
 ---
 layout: archive-taxonomies
-type: tags
+type: page
 title: Etiquetas 
 permalink: /tags/
 ---
+gvchghhjjhv
