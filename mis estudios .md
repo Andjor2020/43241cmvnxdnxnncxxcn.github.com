@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
-type: categories
-title: Categorias 
+type: page
+title: Mis estudios
 permalink: /categories/
 ---
