@@ -1,7 +1,7 @@
 ---
 layout: page
 title: mis estudios 
-permalink: /mis estduios/
+permalink: /mis estudios/
 ---
 A continuación voy a presentar un breve resumen de mis estudios desde la primaria hasta mi educación superior
 
